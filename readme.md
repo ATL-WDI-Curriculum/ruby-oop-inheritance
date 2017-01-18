@@ -12,7 +12,7 @@
 
 This morning you started to learn about object-oriented programming in Ruby and how we can use classes to organize our code into objects.
 
-This morning we will focus on two things...
+This afternoon we will focus on two things...
   1. Reviewing what you learned this morning by building a class together.
   2. Introduce the concept of **inheritance** and how classes can pass attributes and methods to each other.
 
