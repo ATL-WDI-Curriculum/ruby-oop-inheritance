@@ -10,7 +10,7 @@
 
 ## Framing
 
-[Yesterday afternoon](https://github.com/ga-wdi-lessons/ruby-oop) you started to learn about object-oriented programming in Ruby and how we can use classes to organize our code into objects.
+This morning you started to learn about object-oriented programming in Ruby and how we can use classes to organize our code into objects.
 
 This morning we will focus on two things...
   1. Reviewing what you learned this morning by building a class together.
